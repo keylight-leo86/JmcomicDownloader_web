@@ -1,7 +1,6 @@
 # JMComic Web Downloader
 
 [![在线使用](https://img.shields.io/badge/在线使用-点击打开-2ea44f?style=for-the-badge)](https://keylight-leo86.github.io/JmcomicDownloader_web/)
-[![Deploy](https://github.com/keylight-leo86/JmcomicDownloader_web/actions/workflows/pages.yml/badge.svg)](https://github.com/keylight-leo86/JmcomicDownloader_web/actions/workflows/pages.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > **直接打开即可使用，无需下载或安装：**
