@@ -12,6 +12,10 @@
 
 > 本项目是 [JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python) 的非官方 JavaScript 移植，与 JMComic、18comic 及上游作者无任何关联。
 
+<p align="center">
+  <img src="docs/screenshot.jpg" alt="JMComic 网页下载器界面截图：输入车号后完成下载并生成 PDF" width="320">
+</p>
+
 ## 功能
 
 - 支持车号、`JM车号`、`/album/`、`/photo/`、`/comic/detail?id=` 链接，可批量输入。
