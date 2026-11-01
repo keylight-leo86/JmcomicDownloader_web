@@ -1,0 +1,15 @@
+JMComic Web Downloader
+
+This project is a JavaScript port of algorithms from JMComic-Crawler-Python
+(https://github.com/hect0x7/JMComic-Crawler-Python), via JMComic-Downloader-GUI
+(https://github.com/keylight-leo86/JMComic-Downloader-GUI).
+
+Upstream copyright:
+Copyright (c) 2023 hect0x7
+
+Ported logic: API token generation, response decryption, image descrambling,
+and album/chapter naming. The browser UI, PDF pipeline, tests and deployment
+workflow are new work:
+Copyright (c) 2026 JMComic Web Downloader contributors
+
+Both are distributed under the MIT License (see LICENSE).

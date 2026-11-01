@@ -1,0 +1,3 @@
+* text=auto eol=lf
+*.min.js -diff linguist-vendored
+site/vendor/** linguist-vendored
